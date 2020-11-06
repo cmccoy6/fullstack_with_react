@@ -1,3 +1,12 @@
+body {
+	padding: 50px 0px;
+	z-index: 0;
+}
+
+.navbar-dark {
+	background-color: #512DA8;
+}
+
 .row-header{
     margin:0px auto;
     padding:0px;
@@ -8,6 +17,10 @@
     padding: 50px 0px 50px 0px;
     border-bottom: 1px ridge;
     min-height:400px;
+}
+
+.row-title {
+	margin:10px auto;
 }
 
 .footer{
