@@ -45,3 +45,11 @@ address{
     margin:0px;
     color:#0f0f0f;
 }
+
+@media (max-width: 567px) {
+	#logo {
+		margin-bottom: 10px;
+		padding-left: 10px;
+	}
+}
+
