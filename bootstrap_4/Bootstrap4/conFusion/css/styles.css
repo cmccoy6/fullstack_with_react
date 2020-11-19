@@ -69,6 +69,14 @@ address{
 	min-height: 300px;
 }
 
+#carouselButton {
+	position: absolute;
+	right: 0px;
+	bottom: 0px;
+	z-index: 1;
+}
+
+
 @media (max-width: 567px) {
 	#logo {
 		margin-bottom: 10px;
